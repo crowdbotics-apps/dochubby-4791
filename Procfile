@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT docspot_4791.wsgi:application
